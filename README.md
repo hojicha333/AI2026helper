@@ -4,7 +4,7 @@ https://higher.smartedu.cn/ai2026
 F12把相应界面代码粘贴到控制台即可。
 
 ## autolearn_1
-系统内交叉可自动学习工具。
+系统内交叉可自动学习工具。需要手动把所有视频先展开一下。
 <img width="630" height="445" alt="image" src="https://github.com/user-attachments/assets/15c9ce04-cd29-48e6-845d-d6ffbcb18d62" />
 
 
