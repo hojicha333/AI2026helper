@@ -8,10 +8,10 @@ F12把代码粘贴到控制台即可。
 
 
 ## autolearn_2
-系统内通识课自动学习工具。
-<img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/f2944d5b-82ca-4cf3-9325-0d641173017a" />
-
-## autolearn_3
 大模型实操部分自动学习工具。
 <img width="733" height="426" alt="image" src="https://github.com/user-attachments/assets/950326ab-9ec9-469a-be04-b8931a0bbc03" />
+
+## autolearn_3
+系统内通识课自动学习工具。
+<img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/f2944d5b-82ca-4cf3-9325-0d641173017a" />
 
